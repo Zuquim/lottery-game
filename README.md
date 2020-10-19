@@ -2,7 +2,7 @@
 A **very** simple lottery game ticket generator. 
 
 ## Requirements
-- [Python][get Python] >= 3.8
+- [Python][get Python] >= 3.9
 
 ## How to download and run the project
 ### Download
